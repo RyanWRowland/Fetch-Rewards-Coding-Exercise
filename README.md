@@ -1,11 +1,19 @@
 Project: Fetch Rewards Coding Exercise
+
 Author: Ryan Rowland
+
 Version: 0.2.0
+
 Description: 
     Coding Exercise for Fetch Rewards Backend Software Engineering. Points accounting web service. 
     Tracks point transactions from payers/partners for a user and allows user to spend points.
+    
 Instructions:
-    Web service can be started via "npm start" in the console. 
+    npm install ->
+    npm start
+
+    Install required packages by running "npm install" in a terminal. 
+    Web service can be started running "npm start" in a terminal. 
     
     A GET request to localhost:5000/api/payers will return all payer points balances.
     
